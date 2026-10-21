@@ -51,3 +51,7 @@ Above is the happy path. The production checklist: The details below apply to Pr
 
 **Property Workspace Presence: Realtime**
 - **Property Workspace Presence:** Mint **short-lived client tokens server-side** (`POST /v1/realtime/token/issue`); never ship your project key to the browser.
+
+## Further reading
+
+- [Live Auction Realtime API: Bidding Ordering Under Reconnect Pressure](docs/live-auction-realtime-api-bidding-ordering-under-1n311o.md)
